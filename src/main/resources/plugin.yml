@@ -1,0 +1,5 @@
+name: dragon-egg-plugin
+version: '1.0-SNAPSHOT'
+main: org.nightcat.dragonEggPlugin.DragonEggPlugin
+api-version: '1.21'
+folia-supported: true
